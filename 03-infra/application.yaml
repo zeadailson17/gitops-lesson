@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/zeadailson17cd/gitops-lesson-private.git
+    repoURL: git@github.com:zeadailson17/gitops-lesson-private.git
     targetRevision: HEAD
     path: my-app
   destination:
